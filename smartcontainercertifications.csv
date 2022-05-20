@@ -1,4 +1,4 @@
 Certification Type, Certification Description
-ATEX1, "Zone 1 - An area in which an explosive gas atmosphere is likely to occur in normal operation;"
-ATEX2, "Zone 2 - An area in which an explosive gas atmosphere is not likely to occur in normal operation and, if it occurs, will only exist for a short time."
-UNKNOWN, "The certification type of the device is not known or available to report"
+A1, "Zone 1 - An area in which an explosive gas atmosphere is likely to occur in normal operation;"
+A2, "Zone 2 - An area in which an explosive gas atmosphere is not likely to occur in normal operation and, if it occurs, will only exist for a short time."
+NONE, "The certification type of the device is not known or available to report"
